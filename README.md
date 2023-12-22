@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ZJ 
-- 👀 I’m interested in math, physics, cosmology, music and last but not least coding :3
+- 👋 Hi, I’m zj
+- 👀 I’m interested in math, physics, cosmology, music and coding :3
 - 🌱 I’m currently exploring
 <!---
 zjfam/zjfam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
